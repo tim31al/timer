@@ -11,6 +11,7 @@
     "require": {
       "php": ">=7.4"
     },
+    "prefer-stable": true,
     "autoload": {
         "classmap": [
             "src/"
