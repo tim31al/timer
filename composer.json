@@ -1,0 +1,18 @@
+{
+    "name": "alexandrtimofeev/timer",
+    "description": "simple timer",
+    "authors": [
+        {
+            "name": "Alexandr Timofeev",
+            "email": "tim31al@gmail.com"
+        }
+    ],
+    "require": {
+      "php": ">=7.4"
+    },
+    "autoload": {
+        "classmap": [
+            "src/"
+        ]
+    }
+}
