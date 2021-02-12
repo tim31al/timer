@@ -1,6 +1,7 @@
 {
     "name": "alexandrtimofeev/timer",
     "description": "simple timer",
+    "license": "MIT",
     "authors": [
         {
             "name": "Alexandr Timofeev",
